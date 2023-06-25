@@ -1,25 +1,54 @@
 @import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&display=swap');
 
-{
-    margin: 0;
-    padding: 0;
-    border: 0;
-}
-
+/* ----- Colors and Fonts -----  */
 body {
-    font-family: 'Belanosima', sans-serif;
+    font-family: Belanosima, sans-serif;
+    background-color: darkolivegreen;
 }
 
+/* ------------ Header -------------- */
+
+header {
+    color: beige;
+}
+
+h1 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 5rem;
+    padding: none;
+
+}
+
+nav {
+    font-size: x-large;
+    padding: 20px;
+}
+
+nav>a {
+    text-decoration: none;
+    color: beige;
+    margin: 1rem;
+}
+
+nav>a:hover {
+    color: silver;
+}
+
+/* ------------ Body -------------- */
+
+/* ------------ Images -------------- */
 
 #hero-image {
-    <img src="../images/pexels-tonia-kraakman-9610641.jpg">
-    height: 600px;
+    <img src="assests/images/Greyhound_and_sunset.jpg" alt="greyhound in silhouette">height: 10%;
     width: 100%;
     background: no-repeat center center;
 }
 
+/* ------------ Footer -------------- */
+
 footer {
-    height: 150px;
+    height: 100px;
 }
 
 .social-networks {
@@ -35,4 +64,10 @@ footer {
     margin: 1%;
     padding: 5%;
     color: #777777;
+}
+
+#map {
+    height: 100%;
+    width: 100%;
+    border: none;
 }

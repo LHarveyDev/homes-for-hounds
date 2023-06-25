@@ -11,7 +11,7 @@ This is my website created for my milestone project 1 submission as part of my D
     1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
     2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
     3. As a First Time Visitor, I want to find information about the breed and whether a greyhound would be suitable for me.
-    4.  I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+    4. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
 
   - #### Returning Visitor Goals
 

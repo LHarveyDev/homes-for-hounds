@@ -16,13 +16,27 @@ h1 {
     font-family: 'Belanosima', 'sans-serif', cursive;
     color: beige;
     font-size: 5rem;
-    padding: none;
+    margin-left: 50px;
 
+}
+
+h2 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 2rem;
+}
+
+h3 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 1rem;
+    text-align: center;
 }
 
 nav {
     font-size: x-large;
     padding: 20px;
+    margin-left: 20px;
 }
 
 nav>a {
@@ -36,6 +50,20 @@ nav>a:hover {
 }
 
 /* ------------ Body -------------- */
+
+.columns {
+    vertical-align: top;
+    display: inline-block;
+    width: 30%;
+    padding-right: 10px;
+    text-align: center;
+    border-style: solid;
+    word-wrap: break-word;
+}
+
+.columns>p {
+    text-align: justify;
+}
 
 /* ------------ Images -------------- */
 
@@ -63,7 +91,11 @@ footer {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
-    color: #777777;
+    color: beige;
+}
+
+.copyright {
+    color: beige;
 }
 
 #map {

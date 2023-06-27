@@ -3,7 +3,7 @@
 /* ----- Colors and Fonts -----  */
 body {
     font-family: Belanosima, sans-serif;
-    background-color: darkolivegreen;
+    background-color: olive;
 }
 
 /* ------------ Header -------------- */
@@ -17,7 +17,6 @@ h1 {
     color: beige;
     font-size: 5rem;
     margin-left: 50px;
-
 }
 
 h2 {
@@ -51,26 +50,23 @@ nav>a:hover {
 
 /* ------------ Body -------------- */
 
-.columns {
-    vertical-align: top;
-    display: inline-block;
-    width: 30%;
-    padding-right: 10px;
-    text-align: center;
-    border-style: solid;
-    word-wrap: break-word;
+.row {
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
 }
 
-.columns>p {
-    text-align: justify;
+.col-sm-4 {
+    background-color: #A6A15E;
+    border: solid;
 }
 
 /* ------------ Images -------------- */
 
 #hero-image {
-    <img src="assests/images/Greyhound_and_sunset.jpg" alt="greyhound in silhouette">height: 10%;
+    <img src="assests/images/Greyhound_and_sunset.jpg" alt="greyhound in silhouette">height: 100px;
     width: 100%;
-    background: no-repeat center center;
+
 }
 
 /* ------------ Footer -------------- */

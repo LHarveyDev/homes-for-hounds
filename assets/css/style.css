@@ -32,6 +32,11 @@ h3 {
     text-align: center;
 }
 
+.navbar-nav {
+    background-color: crimson;
+    color: gold;
+}
+
 nav {
     font-size: x-large;
     padding: 20px;
@@ -57,6 +62,11 @@ nav>a:hover {
 }
 
 .col-sm-4 {
+    background-color: #A6A15E;
+    border: solid;
+}
+
+.card bg-primary {
     background-color: #A6A15E;
     border: solid;
 }

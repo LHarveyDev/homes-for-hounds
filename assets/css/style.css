@@ -12,25 +12,7 @@ header {
     color: beige;
 }
 
-h1 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
-    color: beige;
-    font-size: 5rem;
-    margin-left: 50px;
-}
-
-h2 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
-    color: beige;
-    font-size: 2rem;
-}
-
-h3 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
-    color: beige;
-    font-size: 1rem;
-    text-align: center;
-}
+/* ------------ Navigation -------------- */
 
 .navbar-nav {
     background-color: crimson;
@@ -53,6 +35,36 @@ nav>a:hover {
     color: silver;
 }
 
+/* ------------ Body -------------- */
+
+h1 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 5rem;
+    margin-left: 50px;
+}
+
+h2 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 2rem;
+}
+
+.h2-form {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 2rem;
+    margin: 50px;
+}
+h3 {
+    font-family: 'Belanosima', 'sans-serif', cursive;
+    color: beige;
+    font-size: 1rem;
+    text-align: center;
+}
+
+/* ------------ Links -------------- */
+
 a {
     color: black;
 }
@@ -61,11 +73,7 @@ a:hover {
     color: rgb(255, 251, 252);
 }
 
-/* ------------ Body -------------- */
-
-#our-dogs {
-    color: beige text-align: center;
-}
+/* ------------ Layout -------------- */
 
 .row {
     padding-top: 2%;
@@ -86,6 +94,10 @@ a:hover {
 
 .card-body text-left {
     text-align: justify;
+}
+
+form {
+    margin: 50px;
 }
 
 /* ------------ Images -------------- */

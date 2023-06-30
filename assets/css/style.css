@@ -56,10 +56,19 @@ h2 {
     font-size: 2rem;
     margin: 50px;
 }
+
 h3 {
     font-family: 'Belanosima', 'sans-serif', cursive;
     color: beige;
     font-size: 1rem;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+.dogs {
     text-align: center;
 }
 
@@ -86,24 +95,31 @@ a:hover {
     border: solid;
 }
 
+.col-sm-6 {
+    background-color: #A6A15E;
+    border: solid;
+    text-align: left;
+    padding: 15px;
+}
+
+.get-in-touch {
+    text-align: center;
+    color: black;
+}
+
 .card-deck {
     background-color: olive;
     padding: 5%;
-
 }
 
 .card-body text-left {
     text-align: justify;
 }
 
-form {
-    margin: 50px;
-}
-
 /* ------------ Images -------------- */
 
 #hero-image {
-    height: 900px;
+    height: 600px;
     width: 100%
 }
 
@@ -140,7 +156,7 @@ footer {
 
 #map {
     height: 100%;
-    width: 40%;
+    width: 100%;
     border: none;
-    float: right;
+    float: none;
 }

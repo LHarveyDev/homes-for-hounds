@@ -1,8 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Belanosima:wght@600&display=swap');*/
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
+
 
 /* ----- Colors and Fonts -----  */
 body {
-    font-family: Belanosima, sans-serif;
+    font-family: Ubuntu, sans-serif;
     background-color: olive;
 }
 
@@ -38,27 +40,27 @@ nav>a:hover {
 /* ------------ Body -------------- */
 
 h1 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
+    font-family: 'Ubuntu', 'sans-serif';
     color: beige;
     font-size: 5rem;
     margin-left: 50px;
 }
 
 h2 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
+    font-family: 'Ubuntu', 'sans-serif';
     color: beige;
     font-size: 2rem;
 }
 
 .h2-form {
-    font-family: 'Belanosima', 'sans-serif', cursive;
+    font-family: 'Ubuntu', 'sans-serif';
     color: beige;
     font-size: 2rem;
     margin: 50px;
 }
 
 h3 {
-    font-family: 'Belanosima', 'sans-serif', cursive;
+    font-family: 'Ubuntu', 'sans-serif';
     color: beige;
     font-size: 1rem;
     text-align: center;

@@ -101,7 +101,7 @@ a:hover {
     background-color: #A6A15E;
     border: solid;
     text-align: left;
-    padding: 15px;
+    padding: 100px;
 }
 
 .get-in-touch {
@@ -116,13 +116,19 @@ a:hover {
 
 .card-body text-left {
     text-align: justify;
+    background-color: olive;
 }
 
 /* ------------ Images -------------- */
 
 #hero-image {
-    height: 600px;
+    height: 700px;
     width: 100%
+}
+
+#blog-image {
+    height: 100px;
+    width: 100px;
 }
 
 .card-img-top {

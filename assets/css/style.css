@@ -15,16 +15,10 @@ header {
 }
 
 /* ------------ Navigation -------------- */
-
-.navbar-nav {
-    background-color: crimson;
-    color: gold;
-}
-
 nav {
     font-size: x-large;
     padding: 20px;
-    margin-left: 20px;
+    margin-left: 60px;
 }
 
 nav>a {
@@ -43,7 +37,7 @@ h1 {
     font-family: 'Ubuntu', 'sans-serif';
     color: beige;
     font-size: 5rem;
-    margin-left: 50px;
+    margin-left: 90px;
 }
 
 h2 {
@@ -71,13 +65,15 @@ p {
 }
 
 .dogs {
+    background-color: #A6A15E;
     text-align: center;
 }
 
 /* ------------ Links -------------- */
 
 a {
-    color: black;
+    color: rgb(73, 22, 2);
+    text decoration: underline;
 }
 
 a:hover {
@@ -119,14 +115,26 @@ a:hover {
     background-color: olive;
 }
 
-/* ------------ Images -------------- */
-
-#hero-image {
-    height: 700px;
-    width: 100%
+.card bg-light text-dark {
+    background-color: #A6A15E;
 }
 
-#blog-image {
+/* ------------ Images -------------- */
+
+.wrapper {
+    height: 400px;
+}
+
+​.hero-image {
+    background-image: url(/assets/images/greyhound_and_sunset.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 50%;
+    width: 100%;
+}
+
+.blog-image {
     height: 100px;
     width: 100px;
 }

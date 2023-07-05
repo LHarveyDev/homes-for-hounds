@@ -73,7 +73,7 @@ p {
 
 a {
     color: rgb(73, 22, 2);
-    text decoration: underline;
+    text-decoration: underline;
 }
 
 a:hover {
@@ -125,18 +125,21 @@ a:hover {
     height: 400px;
 }
 
-​.hero-image {
-    background-image: url(/assets/images/greyhound_and_sunset.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 50%;
+#hero-image {
+    height: 600px;
     width: 100%;
+    background: url(/assets/images/greyhound_and_sunset.jpg) no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 5s;
+    animation-fill-mode: forwards;
 }
 
 .blog-image {
-    height: 100px;
+    float: right;
+    height: 110px;
     width: 100px;
+    padding: 20px 10px 10px 10px;
 }
 
 .card-img-top {

@@ -123,11 +123,11 @@ a:hover {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(/assets/images/greyhound_and_sunset_NEW.jpg) no-repeat center center;
+    background: url(/assets/images/tonia-kraakman1_resize620.jpg) no-repeat center center;
 
     /*animation-name: hero-zoom;
     animation-duration: 5s;
-    animation-fill-mode: forwards;
+    animation-fill-mode: forwards;*/
 }
 
 #hero-outer {
@@ -145,10 +145,10 @@ a:hover {
         transform: scale(1.1);
     }
 
-}*/
+}
     .blog-image {
         float: right;
-        height: 110px;
+        height: 100px;
         width: 100px;
         padding: 20px 10px 10px 10px;
     }

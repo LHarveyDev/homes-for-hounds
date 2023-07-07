@@ -28,9 +28,9 @@ This is my website created for my milestone project 1 submission as part of my D
   - #### Colour Scheme
     - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors.
   - #### Typography
-    - The Belanosima font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Belanosima is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
+    - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
-    - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It showcases the appeal of these dogs.
+    - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It showcases the appeal of these dogs. Photo by <a href="https://unsplash.com/@tototosia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tonia Kraakman</a> on <a href="https://unsplash.com/s/photos/greyhound?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * ### Wireframes
 

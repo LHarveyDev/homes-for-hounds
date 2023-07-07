@@ -27,7 +27,6 @@ li a {
     text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
 li a:hover {
     background-color: #C69F89;
 }
@@ -70,10 +69,35 @@ p {
     color: black;
 }
 
+#name {
+    border-radius: 8px;
+    size: 30;
+}
+
+#email {
+    border-radius: 8px;
+}
+
+#phone {
+    border-radius: 8px;
+}
+
+#dogs {
+    border-radius: 8px;
+}
+
+#comments {
+    border-radius: 10px;
+}
+
+#submit {
+    border-radius: 4px;
+}
+
 /* ------------ Links -------------- */
 
 a {
-    color: rgb(73, 22, 2);
+    color: black;
     text-decoration: underline;
 }
 
@@ -129,7 +153,7 @@ a:hover {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(/assets/images/tonia-kraakman1_resize620.jpg) no-repeat center center;
+    background: url(/assets/images/tonia-kraakman2_resize620compress.jpg) no-repeat center center;
 }
 
 #hero-outer {
@@ -174,6 +198,7 @@ footer {
 
 .copyright {
     color: beige;
+    text-decoration: none;
 }
 
 #map {

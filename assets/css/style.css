@@ -69,9 +69,30 @@ p {
     color: black;
 }
 
+.text1 {
+    border-radius: 25px;
+    border: 2px solid black;
+    background: #A6A15E;
+    padding: 20px;
+    width: 1200px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+
+.text2 {
+    border-radius: 25px;
+    border: 2px solid black;
+    background: #A6A15E;
+    padding: 20px;
+    width: 1200px;
+    height: 100px;
+    box-sizing: border-box;
+    margin-left: 30px;
+}
+
 #name {
     border-radius: 8px;
-    size: 30;
 }
 
 #email {
@@ -125,14 +146,9 @@ a:hover {
     padding: 100px;
 }
 
-.get-in-touch {
-    text-align: center;
-    color: black;
-}
-
 .card-deck {
     background-color: olive;
-    padding: 5%;
+    padding: 2%;
 }
 
 .card-body text-left {
@@ -202,8 +218,8 @@ footer {
 }
 
 #map {
-    height: 100%;
-    width: 100%;
+    height: 240px;
+    width: 350px;
     border: none;
     float: none;
 }

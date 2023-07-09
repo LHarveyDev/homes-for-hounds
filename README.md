@@ -22,7 +22,7 @@ This is my website created for my milestone project 1 submission as part of my D
   - #### Frequent User Goals
     1. As a Frequent User, I want to check to see if there are any new dogs available.
     2. As a Frequent User, I want to check to see if there are any new articles to read.
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+    3. As a Frequent User, I want to find out the latest news.
 
 - ### Design
   - #### Colour Scheme
@@ -30,7 +30,7 @@ This is my website created for my milestone project 1 submission as part of my D
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
-    - Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It showcases the appeal of these dogs. Photo by <a href="https://unsplash.com/@tototosia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tonia Kraakman</a> on <a href="https://unsplash.com/s/photos/greyhound?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+    - Imagery is important. The large, hero image is designed to be striking and catch the user's attention. It showcases the appeal of these dogs. Photo by <a href="https://unsplash.com/@tototosia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tonia Kraakman</a> on <a href="https://unsplash.com/s/photos/greyhound?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 * ### Wireframes
 
@@ -86,7 +86,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
   1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
      1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath the title there is a Hero Image. In the bottom half of the index page there is information and links to furthur reading.
-     2. The main points are made immediately with the hero image and About Us section of text.
+     2. The main points are made immediately with the Hero Image and About Us section of text.
      3. The user has two options, use the navigation buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
 
   2. As a First Time Visitor, I want them to be able to easily navigate throughout the site to find content.

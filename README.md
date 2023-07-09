@@ -26,7 +26,7 @@ This is my website created for my milestone project 1 submission as part of my D
 
 - ### Design
   - #### Colour Scheme
-    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors.
+    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c)
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
@@ -34,13 +34,13 @@ This is my website created for my milestone project 1 submission as part of my D
 
 * ### Wireframes
 
-  - Home Page Wireframe - [View](https://github.com/)
+  - Home Page Wireframe - [View](/assets/wireframes/home.pdf)
 
-  - Meet our Dogs Page Wireframe - [View](https://github.com/)
+  - Meet our Dogs Page Wireframe - [View](/assets/wireframes/dogs.pdf)
 
-  - Contact Us Page Wireframe - [View](https://github.com/)
+  - Contact Us Page Wireframe - [View](/assets/wireframes/form.pdf)
 
-  - Mobile Wireframe - [View](https://github.com/)
+  - Mobile Wireframe - [View](/assets/wireframes/mobile.pdf)
 
 ## Features
 

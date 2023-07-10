@@ -15,11 +15,11 @@ body {
     background-color: #A6A15E;
 }
 
-li {
+.nav-bar li {
     float: left;
 }
 
-li a {
+.nav-bar li a {
     display: block;
     color: beige;
     text-align: center;
@@ -27,7 +27,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+.nav-bar li a:hover {
     background-color: #C69F89;
 }
 
@@ -35,7 +35,6 @@ li a:hover {
     background-color: olive;
 }
 
-/* ------------ Header -------------- */
 /* ------------ Body -------------- */
 
 h1 {
@@ -200,13 +199,8 @@ a:hover {
 
 /* ------------ Footer -------------- */
 
-footer {
-    height: 150px;
-}
-
 .social-networks {
     text-align: center;
-
 }
 
 .social-networks li {
@@ -215,7 +209,7 @@ footer {
 
 .social-networks i {
     font-size: 250%;
-    margin: 1%;
-    padding: 5%;
+    margin: 5px;
+    padding: 2%;
     color: beige;
 }

@@ -106,14 +106,15 @@ a:hover {
 /* ------------ Layout -------------- */
 
 .container {
+    text-align: justify;
     border-radius: 25px;
     border: 2px solid black;
     background: #A6A15E;
     padding: 20px;
-    width: 1245px;
-    height: 100px;
+    max-width: 95%;
+    height: auto;
     box-sizing: border-box;
-    margin-left: 10px;
+    margin: auto;
 }
 
 .row {
@@ -158,6 +159,12 @@ a:hover {
     height: 600px;
     width: 100%;
     background: url(/assets/images/tonia-kraakman1_resize620compress.jpg) no-repeat center center;
+}
+
+.logo {
+    float: right;
+    padding-top: 20px;
+    margin-right: 10px;
 }
 
 .blog-image {

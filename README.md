@@ -68,7 +68,7 @@ This is my website created for my milestone project 1 submission as part of my D
 1. [Logo:](https://logo.com/)
    - Logo was used to create an eye-catching logo used on home page.
 1. [I Love IMG:](https://www.iloveimg.com/resize-image)
-   - I Love IMG used to crop and resize allimages to enhance performance and increase Lighthouse scores during testing.
+   - I Love IMG used to crop and resize all images to enhance performance and increase Lighthouse scores during testing.
 1. [Git](https://git-scm.com/)
    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
@@ -193,7 +193,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from [Unsplash](https://unsplash.com/)
+- The full-screen hero image code came from ?????????????/
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.6.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 

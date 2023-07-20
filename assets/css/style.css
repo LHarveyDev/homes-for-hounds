@@ -145,14 +145,24 @@ a:hover {
     background-color: olive;
 }
 
-.card bg-light text-dark {
+.card {
     background-color: #A6A15E;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+
+.card-img-top {
+    border-radius: 25px 25px 0 0;
 }
 
 /* ------------ Images -------------- */
 
 .wrapper {
     height: 400px;
+}
+
+#hero-outer {
+    height: 20px:
 }
 
 #hero-image {

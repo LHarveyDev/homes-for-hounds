@@ -34,13 +34,13 @@ This is my website created for my milestone project 1 submission as part of my D
 
 * ### Wireframes
 
-  - Home Page Wireframe - [View](/assets/wireframes/home.pdf)
+  - Home Page Wireframe - [View](/documentation/home.pdf)
 
-  - Meet our Dogs Page Wireframe - [View](/assets/wireframes/dogs.pdf)
+  - Meet our Dogs Page Wireframe - [View](/documentation/dogs.pdf)
 
-  - Contact Us Page Wireframe - [View](/assets/wireframes/form.pdf)
+  - Contact Us Page Wireframe - [View](/documentation/form.pdf)
 
-  - Mobile Wireframe - [View](/assets/wireframes/mobile.pdf)
+  - Mobile Wireframe - [View](/documentation/mobile.pdf)
 
 ## Features
 

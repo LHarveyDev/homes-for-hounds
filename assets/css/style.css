@@ -162,7 +162,7 @@ a:hover {
 }
 
 #hero-outer {
-    height: 20px:
+    height: 20px;
 }
 
 #hero-image {
@@ -191,7 +191,7 @@ a:hover {
 }
 
 .google-map {
-    padding-bottom: 50%;
+    padding-bottom: 60%;
     position: relative;
 }
 
@@ -218,4 +218,47 @@ a:hover {
     margin: 5px;
     padding: 2%;
     color: beige;
+}
+
+/* Style inputs, select elements and textareas */
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    resize: vertical;
+}
+
+/* Style the label to display next to the inputs */
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
+
+input[type=submit] {
+    background-color: white;
+    width: 20%;
+    float: right;
+    border: 2px solid;
+    border-radius: 10px;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+
+    .col-25,
+    .col-75,
+    input[type=submit] {
+        width: 100%;
+        margin-top: 0;
+    }
 }

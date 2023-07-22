@@ -26,7 +26,7 @@ This is my website created for my milestone project 1 submission as part of my D
 
 - ### Design
   - #### Colour Scheme
-    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c)
+    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) [View](/documentation/coolers.png)
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
@@ -44,7 +44,7 @@ This is my website created for my milestone project 1 submission as part of my D
 
 ## Features
 
-- Responsive on all device sizes
+- Responsive on all device sizes - [View](/documentation/am_I_responsive.png)
 
 - Interactive elements
 
@@ -153,7 +153,7 @@ The project was deployed to GitHub Pages using the following steps...
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site [link](https://github.com) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://lharveydev.github.io/homes-for-hounds/) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 
@@ -193,7 +193,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from ?????????????/
+- The full-screen hero image code came from Code Institute Love Running module
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.6.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
@@ -210,6 +210,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Acknowledgements
 
-- My Mentor Can Sucullu for continuous helpful feedback.
+- My Mentor for continuous helpful feedback.
 
 - Tutor support at Code Institute for their support.

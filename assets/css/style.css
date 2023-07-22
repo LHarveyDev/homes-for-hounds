@@ -110,7 +110,7 @@ a:hover {
     border-radius: 25px;
     border: 2px solid black;
     background: #A6A15E;
-    padding: 20px;
+    padding: 10px;
     max-width: 95%;
     height: auto;
     box-sizing: border-box;
@@ -118,21 +118,25 @@ a:hover {
 }
 
 .row {
-    padding-top: 2%;
+    padding-top: 1%;
     padding-left: 2%;
     padding-right: 2%;
 }
 
 .col-sm-4 {
     background-color: #A6A15E;
-    border: solid;
+
 }
 
 .col-sm-6 {
     background-color: #A6A15E;
-    border: solid;
+    
     text-align: left;
     padding: 30px;
+}
+
+.vr {
+    border-right-style: solid;
 }
 
 .card-deck {

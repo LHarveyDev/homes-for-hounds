@@ -1,4 +1,6 @@
-<h1 align="center">Homes for Hounds Website</h1>
+<h1 style="text-align: center;">Homes for Hounds Website</h1>
+
+![responsiveness](/documentation/am_I_responsive.png "Am I Responsive")
 
 This is my website created for my milestone project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds.
 
@@ -26,7 +28,7 @@ This is my website created for my milestone project 1 submission as part of my D
 
 - ### Design
   - #### Colour Scheme
-    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) [View](/documentation/coolers.png)
+    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) ![colour palette](/documentation/coolers.png "Colour Palette")
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
@@ -45,7 +47,6 @@ This is my website created for my milestone project 1 submission as part of my D
 ## Features
 
 - Responsive on all device sizes - [View](/documentation/am_I_responsive.png)
-
 - Interactive elements
 
 ## Technologies Used

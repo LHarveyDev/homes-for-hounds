@@ -67,7 +67,9 @@ This is my website created for my milestone project 1 submission as part of my D
 1. [Font Awesome:](https://fontawesome.com/)
    - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [Logo:](https://logo.com/)
-   - Logo was used to create an eye-catching logo used on home page.
+   - Logo was used to create an eye-catching logo used on the home page.
+1. [Favicon.io:](https://favicon.io/)
+   - Favicon.io was used to create the icon on the web page tab.
 1. [I Love IMG:](https://www.iloveimg.com/resize-image)
    - I Love IMG used to crop and resize all images to enhance performance and increase Lighthouse scores during testing.
 1. [Git](https://git-scm.com/)
@@ -81,8 +83,8 @@ This is my website created for my milestone project 1 submission as part of my D
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](https://github.com/)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/)
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.png)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
 ### Testing User Stories from User Experience (UX) Section
 

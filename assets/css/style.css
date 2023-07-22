@@ -166,7 +166,7 @@ a:hover {
 }
 
 #hero-image {
-    height: 800px;
+    height: auto;
     width: 100%;
     background: url(../images/tonia_kraakman1.jpg) no-repeat center center;
 }

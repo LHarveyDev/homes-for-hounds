@@ -1,8 +1,8 @@
-<h1 style="text-align: center;">Homes for Hounds Website</h1>
+<h1 style="text-align: center;">Homes for Hounds</h1>
 
 ![responsiveness](/documentation/am_I_responsive.png "Am I Responsive")
 
-This is my website created for my milestone project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds.
+This is my website created for my Milestone Project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds.
 
 ## User Experience (UX)
 

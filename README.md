@@ -42,8 +42,6 @@ This is my website created for my milestone project 1 submission as part of my D
 
   - Contact Us Page Wireframe - [View](/documentation/form.pdf)
 
-  - Mobile Wireframe - [View](/documentation/mobile.pdf)
-
 ## Features
 
 - Responsive on all device sizes - [View](/documentation/am_I_responsive.png)
@@ -197,6 +195,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ### Code
 
 - The full-screen hero image code came from Code Institute Love Running module
+
+- [W3 Schools Online Web Tutorials](https://www.w3schools.com/): W3 schools website used to find ways to sort problems such as re-positioning text boxes and input fields, embedding google maps, creating hyperlinks to external pages.
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.6.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 

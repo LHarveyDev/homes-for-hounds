@@ -243,14 +243,14 @@ label {
 
 input[type=submit] {
     background-color: white;
-    width: 15%;
+    width: 20%;
     border: 2px solid;
     border-radius: 10px;
     color: black;
     padding: 15px 15px;
     text-decoration: none;
     text-align: center;
-    margin-left: 385px;
+
     cursor: pointer;
 }
 

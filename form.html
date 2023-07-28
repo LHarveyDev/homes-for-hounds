@@ -14,6 +14,7 @@
 </head>
 
 <body>
+    <!--Nav bar-->
     <ul class="nav-bar">
         <li><a href="index.html" aria-label="Go to the top of the page">Home</a></li>
         <li><a href="about.html" aria-label="Go to About Us">About Us</a></li>
@@ -21,6 +22,7 @@
         <li><a class="active" href="form.html" aria-label="Go to contact information">Get in Touch</a></li>
     </ul><br>
 
+    <!--Contact form & map-->
     <div class="container">
         <div class="row">
             <div class="column">
@@ -34,53 +36,34 @@
             <div class="row">
                 <div class="col-sm-6 vr">
                     <h2>Get in Touch</h2>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="name">Name:</label>
-                        </div>
-                        <div class="col-25">
-                            <input type="text" id="name" name="name" placeholder="Your name.." required>
-                        </div>
+
+                    <div class="form-group">
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" placeholder="Your name.." required>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="email">Email:</label>
-                        </div>
-                        <div class="col-75">
-                            <input type="email" id="email" name="email" placeholder="Your email.." required>
-                        </div>
+                    <div class="form-group">
+                        <label for="email">Email:</label>
+                        <input type="email" id="email" name="email" placeholder="Your email.." required>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="phone">Phone No:</label>
-                        </div>
-                        <div class="col-75">
-                            <input type="tel" id="phone" name="phone" placeholder="Your phone number..">
-                        </div>
+                    <div class="form-group">
+                        <label for="phone">Phone No:</label>
+                        <input type="tel" id="phone" name="phone" placeholder="Your phone number..">
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="dogs">Name of Dog:</label>
-                        </div>
-                        <div class="col-75">
-                            <select id="dogs" name="dogs">
-                                <option value="hawk">Hawk</option>
-                                <option value="mimi">Mimi</option>
-                                <option value="trevor">Trevor</option>
-                                <option value="dotty">Dotty</option>
-                                <option value="anton">Anton</option>
-                            </select>
-                        </div>
+                    <div class="form-group">
+                        <label for="dogs">Name of Dog:</label>
+                        <select id="dogs" name="dogs">
+                            <option value="hawk">Hawk</option>
+                            <option value="mimi">Mimi</option>
+                            <option value="trevor">Trevor</option>
+                            <option value="dotty">Dotty</option>
+                            <option value="anton">Anton</option>
+                        </select>
                     </div>
-                    <div class="row">
-                        <div class="col-25">
-                            <label for="comments">Comments:</label>
-                        </div>
-                        <div class="col-75">
-                            <textarea name="comments" id="comments" rows="11" cols="45"></textarea>
-                        </div>
+                    <div class="form-group">
+                        <label for="comments">Comments:</label>
+                        <textarea name="comments" id="comments" rows="11" cols="45"></textarea>
                     </div>
-                    <div class="row">
+                    <div class="form-group">
                         <input type="submit" value="Submit">
                     </div>
                 </div>
@@ -107,6 +90,8 @@
         </div>
     </div>
     </div>
+
+    <!--Footer & Social media links-->
     <footer>
         <ul class="social-networks">
             <li><a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square"></i></a></li>

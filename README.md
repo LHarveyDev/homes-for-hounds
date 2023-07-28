@@ -202,13 +202,18 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- Some content on the home page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds) All other content was written by the developer.
+- Some content on the Home page and About Us page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds) All other content was written by the developer.
+
+- Content for the articles section on the Home page were taken from [here](https://www.barleykennels.co.uk) and [here](https://greyhoundrescuewales.co.uk) All other content was written by the developer.
 
 - Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
 - Hero Image by <a href="https://unsplash.com/@tototosia?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tonia Kraakman</a> on <a href="https://unsplash.com/s/photos/greyhound?orientation=landscape&utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+- Photo of two greyhounds playing on the beach by <a href="https://unsplash.com/@markgaler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Galer</a> on <a href="https://unsplash.com/s/photos/greyhound?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
 - All other Images were created by the developer.
 
 ### Acknowledgements

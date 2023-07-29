@@ -68,6 +68,10 @@ p {
     color: black;
 }
 
+ul li {
+    padding: 5px 0px;
+}
+
 #name {
     border-radius: 8px;
 }
@@ -117,25 +121,22 @@ a:hover {
     margin: auto;
 }
 
+.container-fluid {
+    text-align: justify;
+    border-radius: 25px;
+    border: 2px solid black;
+    background: #A6A15E;
+    padding: 10px;
+    max-width: 95%;
+    height: auto;
+    box-sizing: border-box;
+    margin: auto;
+}
+
 .row {
     padding-top: 1%;
     padding-left: 2%;
     padding-right: 2%;
-}
-
-.col-sm-4 {
-    background-color: #A6A15E;
-
-}
-
-.col-sm-6 {
-    background-color: #A6A15E;
-    text-align: left;
-    padding: 30px;
-}
-
-.vr {
-    border-right-style: solid;
 }
 
 .card-deck {
@@ -275,3 +276,22 @@ input[type=submit]:hover {
     }
 }
 
+#about1 {
+    max-width:auto;
+    margin: 20px;
+}
+
+#about2 {
+    max-width: 45%;
+    margin-inline-start: 20px;
+}
+
+#about2a {
+    max-width: 45%;
+    margin-inline-end: 20px;
+}
+
+#about3 {
+    max-width: auto;
+    margin: 20px;
+}

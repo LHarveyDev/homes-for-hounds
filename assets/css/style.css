@@ -50,12 +50,7 @@ h2 {
     font-size: 2rem;
 }
 
-.h2-form {
-    font-family: 'Ubuntu', 'sans-serif';
-    color: beige;
-    font-size: 2rem;
-    margin: 50px;
-}
+
 
 h3 {
     font-family: 'Ubuntu', 'sans-serif';
@@ -72,30 +67,6 @@ ul li {
     padding: 5px 0px;
 }
 
-#name {
-    border-radius: 8px;
-}
-
-#email {
-    border-radius: 8px;
-}
-
-#phone {
-    border-radius: 8px;
-}
-
-#dogs {
-    border-radius: 8px;
-}
-
-#comments {
-    border-radius: 8px;
-}
-
-#submit {
-    border-radius: 8px;
-}
-
 /* ------------ Links -------------- */
 
 a {
@@ -108,6 +79,8 @@ a:hover {
 }
 
 /* ------------ Layout -------------- */
+
+.parent-container>col-sm-12 {}
 
 .container {
     text-align: justify;
@@ -183,11 +156,11 @@ a:hover {
     height: auto;
 }
 
-.blog-image {
+#blog-image {
     float: right;
-    height: 100px;
-    width: 100px;
-    padding: 20px 10px 10px 10px;
+    height: 175px;
+    width: 120px;
+    margin-left: 10px;
 }
 
 .card-img-top {
@@ -199,6 +172,11 @@ a:hover {
 #dogs-playing {
     max-width: 100%;
     height: auto;
+}
+
+#adoption {
+    float: left;
+    margin: 0 15px 0 0;
 }
 
 .google-map {
@@ -244,12 +222,6 @@ textarea {
     resize: vertical;
 }
 
-/* Style the label to display next to the inputs */
-label {
-    padding: 12px 12px 12px 0;
-    display: inline-block;
-}
-
 input[type=submit] {
     background-color: white;
     width: 20%;
@@ -259,7 +231,6 @@ input[type=submit] {
     padding: 15px 15px;
     text-decoration: none;
     text-align: center;
-
     cursor: pointer;
 }
 
@@ -277,7 +248,7 @@ input[type=submit]:hover {
 }
 
 #about1 {
-    max-width:auto;
+    max-width: auto;
     margin: 20px;
 }
 

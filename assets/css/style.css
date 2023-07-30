@@ -1,12 +1,7 @@
+/* ----- Fonts -----  */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
 
-/* ----- Colors and Fonts -----  */
-body {
-    font-family: Ubuntu, sans-serif;
-    background-color: olive;
-}
-
-/* ------------ Navigation -------------- */
+/* ------Navigation --*/
 .nav-bar {
     list-style-type: none;
     margin: 0;
@@ -37,6 +32,11 @@ body {
 
 /* ------------ Body -------------- */
 
+body {
+    font-family: Ubuntu, sans-serif;
+    background-color: olive;
+}
+
 h1 {
     font-family: 'Ubuntu', 'sans-serif';
     color: beige;
@@ -49,8 +49,6 @@ h2 {
     color: beige;
     font-size: 2rem;
 }
-
-
 
 h3 {
     font-family: 'Ubuntu', 'sans-serif';
@@ -78,23 +76,9 @@ a:hover {
     color: rgb(255, 251, 252);
 }
 
-/* ------------ Layout -------------- */
-
-.parent-container>col-sm-12 {}
+/* ------------ Bootstrap Layout -------------- */
 
 .container {
-    text-align: justify;
-    border-radius: 25px;
-    border: 2px solid black;
-    background: #A6A15E;
-    padding: 10px;
-    max-width: 95%;
-    height: auto;
-    box-sizing: border-box;
-    margin: auto;
-}
-
-.container-fluid {
     text-align: justify;
     border-radius: 25px;
     border: 2px solid black;
@@ -132,15 +116,36 @@ a:hover {
     border-radius: 25px 25px 0 0;
 }
 
-/* ------------ Images -------------- */
+/*------Style inputs, select elements and textareas----*/
 
-.wrapper {
-    height: 400px;
+input,
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid black;
+    border-radius: 8px;
+    box-sizing: border-box;
+    resize: vertical;
 }
 
-#hero-outer {
-    height: 20px;
+input[type=submit] {
+    background-color: white;
+    width: 20%;
+    border: 2px solid;
+    border-radius: 10px;
+    color: black;
+    padding: 15px 15px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
 }
+
+input[type=submit]:hover {
+    background-color: rgb(203, 198, 198);
+}
+
+/* ------------ Images --------------*/
 
 #hero-image {
     height: auto;
@@ -179,6 +184,10 @@ a:hover {
     margin: 0 15px 0 0;
 }
 
+#cave-painting {
+    float: right;
+}
+
 .google-map {
     padding-bottom: 60%;
     position: relative;
@@ -209,35 +218,6 @@ a:hover {
     color: beige;
 }
 
-/* Style inputs, select elements and textareas */
-
-input,
-select,
-textarea {
-    width: 100%;
-    padding: 12px;
-    border: 2px solid black;
-    border-radius: 8px;
-    box-sizing: border-box;
-    resize: vertical;
-}
-
-input[type=submit] {
-    background-color: white;
-    width: 20%;
-    border: 2px solid;
-    border-radius: 10px;
-    color: black;
-    padding: 15px 15px;
-    text-decoration: none;
-    text-align: center;
-    cursor: pointer;
-}
-
-input[type=submit]:hover {
-    background-color: rgb(203, 198, 198);
-}
-
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
 
@@ -247,22 +227,6 @@ input[type=submit]:hover {
     }
 }
 
-#about1 {
-    max-width: auto;
-    margin: 20px;
-}
-
-#about2 {
-    max-width: 45%;
-    margin-inline-start: 20px;
-}
-
-#about2a {
-    max-width: 45%;
-    margin-inline-end: 20px;
-}
-
-#about3 {
-    max-width: auto;
-    margin: 20px;
+.img-responsive {
+    max-width: 100%;
 }

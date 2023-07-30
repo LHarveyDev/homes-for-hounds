@@ -202,9 +202,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- Some content on the Home page and About Us page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds) All other content was written by the developer.
+- The 'Did you know?' and 'Facts & Figures' content on the About Us page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds) All other content was written by the developer.
 
-- Content for the articles section on the Home page were taken from [here](https://www.barleykennels.co.uk) and [here](https://greyhoundrescuewales.co.uk) All other content was written by the developer.
+- Content for the articles section on the Home page were taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk) All other content was written by the developer.
 
 - Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
@@ -214,6 +214,8 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Photo of two greyhounds playing on the beach by <a href="https://unsplash.com/@markgaler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Galer</a> on <a href="https://unsplash.com/s/photos/greyhound?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
+- Photo of dog lying down by Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/photos/Asft5tfUzow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
 - Photo of Cave painting taken from <a href="http://www.dicasamarziali.com/en/sighthounds-dogs.html></a>
 
 - All other Images were created by the developer.

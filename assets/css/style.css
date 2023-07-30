@@ -30,6 +30,13 @@
     background-color: olive;
 }
 
+.logo {
+    float: right;
+    padding-top: 25px;
+    margin-right: 70px;
+    height: auto;
+}
+
 /* ------------ Body -------------- */
 
 body {
@@ -153,11 +160,11 @@ input[type=submit]:hover {
     background: url(../images/tonia_kraakman1.jpg) no-repeat center center;
 }
 
-.logo {
-    float: right;
+#logo {
+    float: left;
     padding-top: 20px;
     margin-right: 40px;
-    max-width: 100%;
+    max-width: 400px;
     height: auto;
 }
 
@@ -168,22 +175,6 @@ input[type=submit]:hover {
     margin-left: 10px;
 }
 
-.card-img-top {
-    width: 100%;
-    height: 20vw;
-    object-fit: cover;
-}
-
-.img-responsive {
-  width: 100%;
-  height: auto;
-}
-
-#dogs-playing {
-    max-width: 100%;
-    height: auto;
-}
-
 #adoption {
     float: left;
     margin: 0 15px 0 0;
@@ -191,10 +182,23 @@ input[type=submit]:hover {
 
 #cave-painting {
     float: right;
+    max-width: 300px;
+    margin-left: 20px;
 }
 
 #dog-lying {
     margin-top: 40px;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 20vw;
+    object-fit: cover;
+}
+
+.img-responsive {
+    width: 100%;
+    height: auto;
 }
 
 .google-map {

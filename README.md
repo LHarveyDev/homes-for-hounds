@@ -2,7 +2,7 @@
 
 ![responsiveness](/documentation/am_I_responsive.png "Am I Responsive")
 
-This is my website created for my Milestone Project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds.
+This is my website created for my Milestone Project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds. The Homes for Hounds site is currently live, the link can be found [Here](https://lharveydev.github.io/homes-for-hounds/)
 
 ## User Experience (UX)
 
@@ -28,7 +28,7 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
 - ### Design
   - #### Colour Scheme
-    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used coolers to select a complimentary colour palette [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) ![colour palette](/documentation/coolers.png "Colour Palette")
+    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) to select a complimentary colour palette [colour palette](/documentation/coolers.png "Colour Palette")
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
@@ -37,6 +37,8 @@ This is my website created for my Milestone Project 1 submission as part of my D
 * ### Wireframes
 
   - Home Page Wireframe - [View](/documentation/home.pdf)
+
+  - About Us Page Wireframe - [View](/documentation/about.pdf)
 
   - Meet our Dogs Page Wireframe - [View](/documentation/dogs.pdf)
 

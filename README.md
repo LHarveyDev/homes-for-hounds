@@ -135,6 +135,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
      1. The user would already be comfortable with the website layout and can easily click the nav bar tab 'Meet our Dogs' to take them to the page. New arrivals are also flagged in the latest news section on the Home page with a link to the 'Meet our Dogs' page.
 
+### Feedback from User Experience (UX) focus group Section
+
+- #### User Feedback
+
+- I tested my website on friends, family, work colleagues and fellow students.
+- Initial feedback was that the 'Home' page contained too much text and was cluttered and unwelcoming.
+
+- #### Response to User Feedback
+
+- Based on this feedback I had a discussion with my mentor who also agreed there was too much text on the 'Home' page. We talked about adding another page to direct users to further information and adding more images to increase the visual experience.
+- I created a fourth page titled 'About Us'. The about us, articles and facts & figures section were moved here from the 'Home' page. The number of articles in the articles section were reduced. Three images were added to break up the text in to bite-size reads.
+- I added Testimonial and How to Volunteer sections to the 'Home' page to increase user engagement
+
 ### Further Testing
 
 - The website was tested on Google Chrome, Firefox, Microsoft Edge and Safari browsers.
@@ -142,11 +155,17 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs
+### Known Bugs & Solutions
 
 - Google map does not open large on ipad air.
 - Favicon not working on deployed page.
 - Required form fields not working on Samsung Galaxy.
+
+### Nice to Haves
+
+- I would like to have added a hamburger menu for smaller screens as the 4th tab is now on a second line.
+- I would like to have added a 'return to top' button at the footer of each page.
+- A pop up box after submitting the contact form saying 'Thanks, we will be in touch soon'
 
 ## Deployment
 

@@ -103,9 +103,9 @@ a:hover {
     padding-right: 2%;
 }
 
-.card-deck {
+.card-columns {
     background-color: olive;
-    padding: 2%;
+    margin: 1%;
 }
 
 .card-body {
@@ -120,6 +120,9 @@ a:hover {
 
 .card-img-top {
     border-radius: 25px 25px 0 0;
+    width: 100%;
+    height: 20vw;
+    object-fit: contain;
 }
 
 /*------Style inputs, select elements and textareas----*/
@@ -189,12 +192,6 @@ input[type=submit]:hover {
     margin-top: 10px;
 }
 
-.card-img-top {
-    width: 100%;
-    height: 20vh;
-    object-fit: contain;
-}
-
 /* ------------ Map  -------------- */
 
 .google-map {
@@ -241,4 +238,30 @@ input[type=submit]:hover {
 .img-responsive {
     width: 100%;
     height: auto;
+}
+
+/*--Responsive layout - change number of columns for each breakpoint. Code from Stack Overflow--*/
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 992px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 1200px) {
+    .card-columns {
+        column-count: 6;
+    }
 }

@@ -85,7 +85,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.png)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
-![accessibility](/documentation/lighthouse.png "Lighthouse")
+- Lighthouse Scores
+  ![accessibility](/documentation/lighthouse.png "Lighthouse")
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -226,7 +227,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - [W3 Schools Online Web Tutorials](https://www.w3schools.com/): W3 schools website used to find ways to sort problems such as re-positioning text boxes and input fields, embedding google maps, creating hyperlinks to external pages.
 
-- [Bootstrap4](https://getbootstrap.com/docs/4.6.2/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
+- [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
 ### Content
 

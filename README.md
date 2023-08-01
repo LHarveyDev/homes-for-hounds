@@ -85,6 +85,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.png)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
+![accessibility](/documentation/lighthouse.png "Lighthouse")
+
 ### Testing User Stories from User Experience (UX) Section
 
 - #### First Time Visitor Goals
@@ -165,7 +167,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - I would like to have added a hamburger menu for smaller screens as the 4th tab is now on a second line.
 - I would like to have added a 'return to top' button at the footer of each page.
-- A pop up box after submitting the contact form saying 'Thanks, we will be in touch soon' I plan to use Javascript to achieve this.
+- Create pop up box after submitting the contact form saying 'Thanks, we will be in touch soon' I plan to use Javascript to achieve this.
+- On Meet our Dogs page I would like a carousel of images to open for each dog.
 
 ## Deployment
 

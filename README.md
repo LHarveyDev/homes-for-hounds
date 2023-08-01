@@ -1,6 +1,6 @@
 <h1 style="text-align: center;">Homes for Hounds</h1>
 
-![responsiveness](/documentation/am_I_responsive.png "Am I Responsive")
+![responsiveness](/documentation/am_i_responsive.jpg "Am I Responsive")
 
 This is my website created for my Milestone Project 1 submission as part of my Diploma in Web Development run by Code Institute. The website is a fictional rehoming site for greyhounds. The Homes for Hounds site is currently live, the link can be found [Here](https://lharveydev.github.io/homes-for-hounds/)
 
@@ -46,8 +46,7 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
 ## Features
 
-- Responsive on all device sizes - [View](/documentation/am_I_responsive.png)
-- Interactive elements
+- Responsive on all device sizes - [View](/documentation/am_i_responsive.jpg)
 
 ## Technologies Used
 
@@ -83,8 +82,8 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
-- [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.PNG)
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.PNG)
+- [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.png)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -92,35 +91,38 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
   1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
 
-     1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath the title there is a Hero Image. In the bottom half of the index page there is information and links to furthur reading.
-     2. The main points are made immediately with the Hero Image and About Us section of text.
+     1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath the title there is a Hero Image. In the bottom half of the index page there is information about the organisation and links to direct the user to relevant pages and furthur reading.
+     2. The main points are made immediately with the Hero Image and What We Do section of text.
      3. The user has two options, use the navigation buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
 
   2. As a First Time Visitor, I want them to be able to easily navigate throughout the site to find content.
 
-     1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what page they will end up at clearly.
-     2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-     3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+     1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a navigation bar, each link describes what page they will end up at clearly.
+     2. Throughout the site there are links to take the user directly to relevant pages rather than have to scroll up and use the navigation bar.
 
   3. As a First Time Visitor, I want to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-     1. Once the new visitor has read the About Us and Latest News text, they will see the social media links in the footer.
+
+     1. Once the new visitor has read the What We Do and Latest News text, they will see the social media links in the footer.
      2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-     3. On the Get in Touch page, the user is told that alternatively they can contact the organisation on social media and directs them to the links in the footer.
+     3. The Home page contains a testimonial which provides a real life opinion of the organisation and increases trust .
+     4. On the Get in Touch page, the user is told that alternatively they can contact the organisation on social media and directs them to the links in the footer.
 
 - #### Returning Visitor Goals
 
   1. As a Returning Visitor, I want to view the new dogs and see the latest news.
 
      1. These are clearly shown in the nav bar and on the Home page.
+     2. Links throughout the Home page direct users to the 'Meet our Dogs' page.
 
   2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
 
-     1. The navigation bar clearly highlights the "Contact Us" Page.
+     1. The navigation bar clearly highlights the 'Contact Us' Page.
      2. Here they can fill out the form on the page or are told that alternatively they can email or message the organisation on social media.
      3. The footer contains links to the organisations Facebook, Twitter, YouTube and Instagram page.
      4. Whichever link they click, it will open up in a new tab to ensure the user can easily get back to the website.
 
   3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+
      1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
 
 - #### Frequent User Goals
@@ -131,18 +133,20 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
   2. As a Frequent User, I want to check to see if there are any new dogs available.
 
-     1. The user would already be comfortable with the website layout and can easily click the nav bar tab "Meet the Dogs" to take them to the page. New arrivals are also flagged in the latest news section on the Home page.
+     1. The user would already be comfortable with the website layout and can easily click the nav bar tab 'Meet our Dogs' to take them to the page. New arrivals are also flagged in the latest news section on the Home page with a link to the 'Meet our Dogs' page.
 
 ### Further Testing
 
-- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
-- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+- The website was tested on Google Chrome, Firefox, Microsoft Edge and Safari browsers.
+- The website was viewed on a variety of devices such as Desktop, Laptop, ipad air, iPhone7, Samsung Galaxy A20e and in Google developer tools.
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
 
-- .
+- Google map does not open large on ipad air.
+- Favicon not working on deployed page.
+- Required form fields not working on Samsung Galaxy.
 
 ## Deployment
 
@@ -162,13 +166,13 @@ The project was deployed to GitHub Pages using the following steps...
 
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LHarveyDev/homes-for-hounds.git)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LHarveyDev/homes-for-hounds.git)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
@@ -196,7 +200,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Code
 
-- The full-screen hero image code came from Code Institute Love Running module
+- The full-screen hero image code came from Code Institute Love Running module.
 
 - [W3 Schools Online Web Tutorials](https://www.w3schools.com/): W3 schools website used to find ways to sort problems such as re-positioning text boxes and input fields, embedding google maps, creating hyperlinks to external pages.
 
@@ -204,9 +208,11 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
-- The 'Did you know?' and 'Facts & Figures' content on the About Us page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds) All other content was written by the developer.
+- The 'Did You Know?' and 'Facts & Figures' content on the 'About Us' page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds)
 
-- Content for the articles section on the Home page were taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk) All other content was written by the developer.
+- Content for the 'Articles' section on the 'Home' page was taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk)
+
+- All other content was written by the developer.
 
 - Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
@@ -216,9 +222,9 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Photo of two greyhounds playing on the beach by <a href="https://unsplash.com/@markgaler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mark Galer</a> on <a href="https://unsplash.com/s/photos/greyhound?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
-- Photo of dog lying down by Photo by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/photos/Asft5tfUzow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-- Photo of Cave painting taken from <a href="http://www.dicasamarziali.com/en/sighthounds-dogs.html></a>
+- Photo of dog lying down by <a href="https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Annie Spratt</a> on <a href="https://unsplash.com/photos/Asft5tfUzow?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+
+- Photo of Cave painting taken from <a href="http://www.dicasamarziali.com/en/sighthounds-dogs.html">Centre for Preservation Breeding of Italian Working Dogs</a>
 
 - All other Images were created by the developer.
 

@@ -28,7 +28,7 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
 - ### Design
   - #### Colour Scheme
-    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) to select a complimentary colour palette [colour palette](/documentation/coolers.png "Colour Palette")
+    - The colours I chose reflect the natural environment to appeal to people who enjoy nature and the outdoors. I used [Coolers](https://coolors.co/93032e-c69f89-a6a15e-84894a-034c3c) to select a complimentary colour palette ![colour palette](/documentation/coolers.png "Colour Palette")
   - #### Typography
     - The Ubuntu font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Ubuntu is an informal, friendly font that conveys a welcoming image but is also easy to read and has clean lines.
   - #### Imagery
@@ -137,12 +137,12 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Feedback from User Experience (UX) focus group Section
 
-- #### User Feedback
+#### User Feedback
 
 - I tested my website on friends, family, work colleagues and fellow students.
 - Initial feedback was that the 'Home' page contained too much text and was cluttered and unwelcoming.
 
-- #### Response to User Feedback
+#### Response to User Feedback
 
 - Based on this feedback I had a discussion with my mentor who also agreed there was too much text on the 'Home' page. We talked about adding another page to direct users to further information and adding more images to increase the visual experience.
 - I created a fourth page titled 'About Us'. The about us, articles and facts & figures section were moved here from the 'Home' page. The number of articles in the articles section were reduced. Three images were added to break up the text in to bite-size reads.
@@ -159,13 +159,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 - Google map does not open large on ipad air.
 - Favicon not working on deployed page.
-- Required form fields not working on Samsung Galaxy.
+- Required form fields not working on Samsung Galaxy. Error in form.html fixed, I had incorrectly closed the form element.
 
 ### Nice to Haves
 
 - I would like to have added a hamburger menu for smaller screens as the 4th tab is now on a second line.
 - I would like to have added a 'return to top' button at the footer of each page.
-- A pop up box after submitting the contact form saying 'Thanks, we will be in touch soon'
+- A pop up box after submitting the contact form saying 'Thanks, we will be in touch soon' I plan to use Javascript to achieve this.
 
 ## Deployment
 

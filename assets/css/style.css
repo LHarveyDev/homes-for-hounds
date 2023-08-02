@@ -1,8 +1,14 @@
 /* ----- Fonts -----  */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
 
-/* ------Nav Bar --*/
-.nav-bar {
+/* --Nav Bar--Code from https: //getbootstrap.com/docs/4.0/components/navbar/--*/
+
+.navbar {
+    color: beige;
+    background-color: #A6A15E;
+}
+
+.navbar-nav {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -10,11 +16,11 @@
     background-color: #A6A15E;
 }
 
-.nav-bar li {
+.navbar-nav li {
     float: left;
 }
 
-.nav-bar li a {
+.navbar-nav li a {
     display: block;
     color: beige;
     text-align: center;
@@ -22,9 +28,11 @@
     text-decoration: none;
 }
 
-.nav-bar li a:hover {
+.navbar-nav li a:hover {
     background-color: #C69F89;
 }
+
+/*Code derived from --https: //www.w3schools.com/howto/howto_js_active_element.asp--*/
 
 .active {
     background-color: olive;
@@ -40,7 +48,7 @@
 /* ------------ Body -------------- */
 
 body {
-    font-family: Ubuntu, sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     background-color: olive;
 }
 
@@ -102,6 +110,8 @@ a:hover {
     padding-left: 2%;
     padding-right: 2%;
 }
+
+/*--Code derived from https: //stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns--*/
 
 .card-columns {
     background-color: olive;

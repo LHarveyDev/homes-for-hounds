@@ -7,6 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Meet our Dogs</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
     <script src="https://kit.fontawesome.com/c454350385.js" crossorigin="anonymous"></script>
     <link href="assets/css/style.css" rel="stylesheet" type="text/css">
     <link rel="apple-touch-icon" sizes="180x180" href="/homes-for-hounds/apple-touch-icon.png">
@@ -16,14 +19,30 @@
 </head>
 
 <body>
+
     <!--Nav bar-->
 
-    <ul class="nav-bar sticky-top">
-        <li><a href="index.html" aria-label="Go to the top of the page">Home</a></li>
-        <li><a href="about.html" aria-label="Go to About Us">About Us</a></li>
-        <li><a class="active" href="dogs.html" aria-label="Go to meet our dogs page">Meet our Dogs</a></li>
-        <li><a href="form.html" aria-label="Go to contact information">Get in Touch</a></li>
-    </ul>
+    <nav class="navbar navbar-expand-md navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="index.html">Home </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="about.html">About Us</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="dogs.html">Meet Our Dogs <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="form.html">Get in Touch</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
     <br>
 
     <!--Meet our dogs-->

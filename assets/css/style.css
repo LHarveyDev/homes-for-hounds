@@ -39,10 +39,10 @@
 /*Code derived from--https: //www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels--*/
 .logo {
     float: right;
-    padding-top: 25px;
+    padding-top: 10px;
     margin-right: 70px;
     height: auto;
-    width: 30%;
+    width: 5em;
 }
 
 /* ------------ Body -------------- */

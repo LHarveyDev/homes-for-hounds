@@ -38,6 +38,8 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
   - Home Page Wireframe - [View](/documentation/home.pdf)
 
+  - Home Page Wireframe Updated Version - [View](/documentation/home_new.pdf)
+
   - About Us Page Wireframe - [View](/documentation/about.pdf)
 
   - Meet our Dogs Page Wireframe - [View](/documentation/dogs.pdf)
@@ -86,6 +88,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
 - Lighthouse Scores
+
   ![accessibility](/documentation/lighthouse.png "Lighthouse")
 
 ### Testing User Stories from User Experience (UX) Section
@@ -142,14 +145,18 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 #### User Feedback
 
-- I tested my website on friends, family, work colleagues and fellow students.
-- Initial feedback was that the 'Home' page contained too much text and was cluttered and unwelcoming.
+I tested my website on friends, family, work colleagues and fellow students.
+
+- Initial feedback was that the 'Home' page contained too much text and was cluttered and a bit intimidating.
+- Some of my images overlapped the text on smaller screen sizes.
+- My navigation menu did not collapse and was spread over two lines on mobile devices.
 
 #### Response to User Feedback
 
 - Based on this feedback I had a discussion with my mentor who also agreed there was too much text on the 'Home' page. We talked about adding another page to direct users to further information and adding more images to increase the visual experience.
-- I created a fourth page titled 'About Us'. The about us, articles and facts & figures section were moved here from the 'Home' page. The number of articles in the articles section were reduced. Three images were added to break up the text in to bite-size reads.
-- I added Testimonial and How to Volunteer sections to the 'Home' page to increase user engagement
+- I created a fourth page titled 'About Us'. The about us, articles and facts & figures section were moved here from the 'Home' page. The number of articles in the articles section were reduced. Three images were added to break up the text in to bite-size reads. Please refer to wireframe Home Page Updated.
+- I added Testimonial and How to Volunteer sections to the 'Home' page to increase user engagement.
+- I added a collapsible nav bar using bootstrap which converts to a hamburger menu on smaller screens.
 
 ### Further Testing
 
@@ -158,18 +165,22 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - A large amount of testing was done to ensure that all pages were linking correctly.
 - Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
-### Known Bugs & Solutions
+### Known Bugs & Fixes
 
-- Google map does not open large on ipad air.
-- Favicon not working on deployed page.
-- Required form fields not working on Samsung Galaxy. Error in form.html fixed, I had incorrectly closed the form element.
+- Bug - Google map does not open large on ipad air.
+- Bug - Favicon not working on deployed page.
+  Fix - With help from my mentor I understood that the filepath on the deployed page was incorrect and this was an easy fix.
+- Bug - Required form fields not working on Samsung Galaxy.  
+  Fix - Error in form.html fixed, I had incorrectly closed the form element.
+- Bug - On submission my form navigated the user to a submission page outside the website necessitating use of the back button.  
+  Fix - I added a target value of blank to open in a new tab..
 
 ### Nice to Haves
 
-- I would like to have added a hamburger menu for smaller screens as the 4th tab is now on a second line.
 - I would like to have added a 'return to top' button at the footer of each page.
-- Create pop up box after submitting the contact form saying 'Thanks, we will be in touch soon' I plan to use Javascript to achieve this.
+- I would like to create a pop up box after submitting the contact form saying 'Thanks, we will be in touch soon' I plan to use Javascript to achieve this.
 - On Meet our Dogs page I would like a carousel of images to open for each dog.
+- On Meet our Dogs page I would like to add a search function to filter between sex of dog, age etc.
 
 ## Deployment
 
@@ -234,6 +245,14 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - The 'Did You Know?' and 'Facts & Figures' content on the 'About Us' page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds)
 
 - Content for the 'Articles' section on the 'Home' page was taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk)
+
+- Nav Bar code from (https://getbootstrap.com/docs/4.0/components/navbar/) and (https://www.w3schools.com/howto/howto_js_active_element.asp)
+
+- Resize logo code from https: (https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels)
+
+- Card columns code from (https: //stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns)
+
+- Code has also been attributed directly in the html and css pages.
 
 - All other content was written by the developer.
 

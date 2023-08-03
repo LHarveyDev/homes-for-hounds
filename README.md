@@ -48,7 +48,7 @@ This is my website created for my Milestone Project 1 submission as part of my D
 
 ## Features
 
-- Responsive on all device sizes - [View](/documentation/am_i_responsive.jpg)
+- Responsive on all device sizes - [Am I Responsive](https://ui.dev/amiresponsive?url=https://lharveydev.github.io/homes-for-hounds/)
 
 ## Technologies Used
 
@@ -244,7 +244,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - Resize logo code from https: (https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels)
 
-- Card columns code from (https: //stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns)
+- Card columns code from (https://stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns)
 
 - Code has also been attributed directly in the html and css pages.
 

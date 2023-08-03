@@ -87,9 +87,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - [W3C Markup Validator](https://validator.w3.org/#validate_by_input) - [Results](/documentation/html_validation.png)
 - [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/documentation/css_validation.png)
 
-- Lighthouse Scores
+- Lighthouse Scores performed in Incognito mode.
 
-  ![accessibility](/documentation/lighthouse.png "Lighthouse")
+  ![accessibility](/documentation/lighthouse.jpg "Lighthouse")
 
 ### Testing User Stories from User Experience (UX) Section
 
@@ -148,6 +148,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 I tested my website on friends, family, work colleagues and fellow students.
 
 - Initial feedback was that the 'Home' page contained too much text and was cluttered and a bit intimidating.
+- The large bodies of text and overload of articles, news and information didn't draw the user in on first visit.
 - Some of my images overlapped the text on smaller screen sizes.
 - My navigation menu did not collapse and was spread over two lines on mobile devices.
 
@@ -167,7 +168,6 @@ I tested my website on friends, family, work colleagues and fellow students.
 
 ### Known Bugs & Fixes
 
-- Bug - Google map does not open large on ipad air.
 - Bug - Favicon not working on deployed page.
   Fix - With help from my mentor I understood that the filepath on the deployed page was incorrect and this was an easy fix.
 - Bug - Required form fields not working on Samsung Galaxy.  
@@ -240,12 +240,6 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 - [Bootstrap4](https://getbootstrap.com/docs/4.6/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System.
 
-### Content
-
-- The 'Did You Know?' and 'Facts & Figures' content on the 'About Us' page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds)
-
-- Content for the 'Articles' section on the 'Home' page was taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk)
-
 - Nav Bar code from (https://getbootstrap.com/docs/4.0/components/navbar/) and (https://www.w3schools.com/howto/howto_js_active_element.asp)
 
 - Resize logo code from https: (https://www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels)
@@ -253,6 +247,14 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 - Card columns code from (https: //stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns)
 
 - Code has also been attributed directly in the html and css pages.
+
+- Tutor support was used for advice on resizing and compressing images.
+
+### Content
+
+- The 'Did You Know?' and 'Facts & Figures' content on the 'About Us' page was taken from [here](https://www.greyhoundtrust.org.uk/home-a-greyhound/all-about-greyhounds)
+
+- Content for the 'Articles' section on the 'Home' page was taken from [here](https://www.barleykennels.co.uk) and [here](https://www.greyhoundtrust.org.uk)
 
 - All other content was written by the developer.
 

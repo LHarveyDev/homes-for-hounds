@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;500;700&display=swap');
 
 /* --Nav Bar--Code from https: //getbootstrap.com/docs/4.0/components/navbar/--*/
-
 .navbar {
     color: beige;
     background-color: #A6A15E;
@@ -32,17 +31,18 @@
     background-color: #C69F89;
 }
 
-/*Code derived from --https: //www.w3schools.com/howto/howto_js_active_element.asp--*/
-
+/*Code derived from--https: //www.w3schools.com/howto/howto_js_active_element.asp--*/
 .active {
     background-color: olive;
 }
 
+/*Code derived from--https: //www.freecodecamp.org/news/css-responsive-image-tutorial/#:~:text=To%20make%20an%20image%20responsive,than%20absolute%20ones%20like%20pixels--*/
 .logo {
     float: right;
     padding-top: 25px;
     margin-right: 70px;
     height: auto;
+    width: 30%;
 }
 
 /* ------------ Body -------------- */
@@ -55,7 +55,7 @@ body {
 h1 {
     font-family: 'Ubuntu', 'sans-serif';
     color: beige;
-    font-size: 5rem;
+    font-size: 6vw;
     margin-left: 70px;
 }
 
@@ -112,7 +112,6 @@ a:hover {
 }
 
 /*--Code derived from https: //stackoverflow.com/questions/34140793/bootstrap-4-responsive-cards-in-card-columns--*/
-
 .card-columns {
     background-color: olive;
     margin: 1%;
@@ -233,6 +232,7 @@ input[type=submit]:hover {
 }
 
 /* -- Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other -- */
+
 @media screen and (max-width: 600px) {
 
     input[type=submit] {
